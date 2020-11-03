@@ -1,0 +1,343 @@
+html{
+    scroll-behavior: smooth;
+}
+#ukr1{
+
+    height: 300px;
+    background-color: blue;
+
+}
+
+#ukr2{
+
+    height: 300px;
+    background-color: yellow
+
+}
+
+#rus1{
+
+    height: 300px;
+    background-color: white;
+
+}
+
+#rus2{
+
+    height: 300px;
+    background-color: blue;
+
+}
+
+#rus3{
+
+    height: 300px;
+    background-color: red;
+
+}
+
+#arg1{
+
+    height: 300px;
+    background-color: rgb(0, 217, 255);  
+
+}
+
+#arg2{
+
+    height: 300px;
+    background-color: white;
+
+}
+
+#arg3{
+
+    height: 300px;
+    background-color: rgb(0, 217, 255);
+
+}
+
+#ger1{
+
+    height: 300px;
+    background-color: black;
+
+}
+
+#ger2{
+
+    height: 300px;
+    background-color: red;
+
+}
+
+#ger3{
+
+    height: 300px;
+    background-color: yellow;
+
+}
+
+#bol1{
+
+    height: 300px;
+    background-color: white;
+
+}
+
+#bol2{
+
+    height: 300px;
+    background-color: rgb(8, 245, 48) ;
+
+}
+
+#bol3{
+
+    height: 300px;
+    background-color: red ;
+
+}
+
+#isp1{
+
+    height: 300px;
+    background-color: red;
+
+}
+
+#isp2{
+
+    height: 300px;
+    background-color: yellow;
+
+}
+
+#isp3{
+
+    height: 300px;
+    width: 200px;
+    background-color: red;
+    
+}
+
+#fra1{
+
+    height: 400px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+
+#fra2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+}
+
+#fra3{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+#egi1{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#egi2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#egi3{
+
+    height: 400px;
+    width: 200px;
+    background-color: black;
+    display: inline-block;
+
+}
+
+#irl1{
+
+
+    height: 400px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+}
+
+#irl2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#irl3{
+
+    height: 400px;
+    width: 200px;
+    background-color: orange;
+    display: inline-block;
+
+}
+
+#isp1{
+
+    height: 400px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+
+}
+
+#isp2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#isp3{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#mex1{
+
+    height: 400px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+
+}
+
+#mex2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#mex3{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#can1{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#can2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#can3{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#tai1{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+
+}
+
+#tai2{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#tai3{
+
+    height: 400px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    
+}
+
+#tai4{
+
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+#tai5{
+
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+    
+}
+
+#por1{
+
+    height: 400px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+    
+}
+#por2{
+  
+    height: 400px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;  
+
+}
